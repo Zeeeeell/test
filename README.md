@@ -1,4 +1,4 @@
-My First Github Repo!
+My First Github Repository!
 
 Hello World!
 
